@@ -10,7 +10,8 @@
 💞️ I’m eager to collaborate on projects at the intersection of AIML, web development, data science, and cloud computing. Whether it's exploring innovative AI models, building responsive web applications, analyzing data to extract valuable insights, or utilizing cloud services to optimize solutions, I'm excited about collaborative opportunities in these areas.
 
 
-📫 How to reach me: You can connect with me via email at ky8050989@gmail.com or find me on LinkedIn at linkedin.com/in/kapildev. I'm always open to discussions, collaborations, and exploring new opportunities within the tech sphere!
+📫 How to reach me: You can connect with me via email at ky8050989@gmail.com or find me on LinkedIn at www.linkedin.com/in/kapil-119374278
+ I'm always open to discussions, collaborations, and exploring new opportunities within the tech sphere!
 Well that's all about me , Thank You for visiting My Profile .
 
 <!---
